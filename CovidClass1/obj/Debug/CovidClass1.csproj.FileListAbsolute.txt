@@ -1,0 +1,6 @@
+c:\users\pascal\documents\visual studio 2017\Projects\CovidClass1\CovidClass1\bin\Debug\CovidClass1.exe.config
+c:\users\pascal\documents\visual studio 2017\Projects\CovidClass1\CovidClass1\bin\Debug\CovidClass1.exe
+c:\users\pascal\documents\visual studio 2017\Projects\CovidClass1\CovidClass1\bin\Debug\CovidClass1.pdb
+c:\users\pascal\documents\visual studio 2017\Projects\CovidClass1\CovidClass1\obj\Debug\CovidClass1.csprojResolveAssemblyReference.cache
+c:\users\pascal\documents\visual studio 2017\Projects\CovidClass1\CovidClass1\obj\Debug\CovidClass1.exe
+c:\users\pascal\documents\visual studio 2017\Projects\CovidClass1\CovidClass1\obj\Debug\CovidClass1.pdb
